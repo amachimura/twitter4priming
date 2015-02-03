@@ -10,6 +10,6 @@
 	<classpathentry kind="lib" path="lib/twitter4j-media-support-4.0.2.jar"/>
 	<classpathentry kind="lib" path="lib/twitter4j-stream-4.0.2.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER/appengine-java-sdk-1.9.17"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
